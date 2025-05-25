@@ -1,0 +1,66 @@
+Title: Nvidia Stock Crashed on Bad News From Washington. Should Investors Buy the Dip?
+Date: 2025-04-16 18:34
+URL: https://www.fool.com/investing/2025/04/16/nvidia-stock-crash-bad-news-washington-buy-dip/?source=eptyholnk0000202&utm_source=yahoo-host-full&utm_medium=feed&utm_campaign=article&referring_guid=960742da-4369-4a25-8516-a68c2a0cf189&.tsrc=rss
+
+Founded in 1993, The Motley Fool is a financial services company dedicated to making the world smarter, happier, and richer. The Motley Fool reaches millions of people every month through our premium investing solutions, free guidance and market analysis on Fool.com, top-rated podcasts, and non-profit The Motley Fool Foundation.
+Founded in 1993, The Motley Fool is a financial services company dedicated to making the world smarter, happier, and richer. The Motley Fool reaches millions of people every month through our premium investing solutions, free guidance and market analysis on Fool.com, personal finance education, top-rated podcasts, and non-profit The Motley Fool Foundation.
+Founded in 1993, The Motley Fool is a financial services company dedicated to making the world smarter, happier, and richer. The Motley Fool reaches millions of people every month through our premium investing solutions, free guidance and market analysis on Fool.com, top-rated podcasts, and non-profit The Motley Fool Foundation.
+Founded in 1993, The Motley Fool is a financial services company dedicated to making the world smarter, happier, and richer. The Motley Fool reaches millions of people every month through our premium investing solutions, free guidance and market analysis on Fool.com, personal finance education, top-rated podcasts, and non-profit The Motley Fool Foundation.
+Key Points
+Nvidia (NVDA -9.37%) shares fell more than 7% on Wednesday morning, after the company disclosed new export restrictions on its artificial intelligence (AI) chips. Specifically, the company must now obtain licenses from the U.S. government to sell its H20 processors in China.
+However, Nvidia doesn't expect those licenses to be forthcoming. The company plans to take a $5.5 billion charge related to "H20 products for inventory, purchase commitments, and related services" in the first quarter of fiscal 2026 (which ends April 27), according to a regulatory filing.
+Nvidia stock now has plummeted 30% from the record high it reached in January. Should investors buy the dip?
+Nvidia has been navigating export restrictions in China for several years. In 2022, the Biden administration prohibited the company from selling its most powerful artificial intelligence (AI) accelerators, A100 and H100 graphics processing units ( GPUs), to Chinese businesses due to concerns about their military applications. Nvidia responded by tweaking its A100 and H100 architectures to build less powerful chips that complied with export requirements.
+Those processors, called A800 and H800, were adopted by several Chinese technology companies, including Alibaba, Baidu, and Tencent. However, in 2023, the Biden administration restricted the sale of those processors in China.
+Next, Nvidia developed an even less powerful Hopper GPU called the H20 that complied with latest export curbs, but the Trump administration has now effectively prohibited the sale of those processors in China, too. In total, Bloomberg Intelligence estimates that the latest restrictions will cost the company between $14 billion and $18 billion in revenue in fiscal 2026.
+While Nvidia has reported exceptional financial results since the generative AI boom began in late 2022, export restrictions have still taken a severe toll. China accounted for over 26% of total revenue in fiscal 2022 but just 13% of total revenue in fiscal 2025. Put differently, total sales increased at 69% annually during that period, but revenue from China increased at just 34% annually.
+When our analyst team has a stock tip, it can pay to listen. After all, Stock Advisor’s total average return is 818% — a market-crushing outperformance compared to 156% for the S&P 500.
+They just revealed what they believe are the 10 best stocks for investors to buy right now…
+*Stock Advisor returns as of April 14, 2025
+Nvidia announced the H20 export controls on April 15 in a regulatory filing that told investors the licensing requirements will remain effective "for the indefinite future." Several analysts subsequently revised their target prices lower on April 16, as detailed below:
+However, several analysts maintained their target prices despite the latest export controls, including those at Cantor Fitzgerald, Evercore, and Wedbush. Likewise, Joseph Moore at Morgan Stanley reiterated Nvidia as his "top pick" in the semiconductor space. In total, the median target price declined from $175 per share to $170 per share, but that still implies 63% upside from its current share price of $104.
+Dan Ives at Wedbush urged investors to "look past the chaos." He believes Nvidia is the only chipmaker in the world that can supply the processors required to run the most advanced artificial intelligence applications. He said the financial impact would be "relatively small," but acknowledged the restrications are still a strategic blow for the company.
+More analysts may lower their forecasts in the coming days, but the average estimate currently calls for Nvidia's earnings to increase 51% in fiscal 2026. That consensus makes the current valuation of 35 times earnings look cheap. Patient investors should consider buying a small position in Nvidia stock now.
+
+ 
+
+Before you buy stock in Nvidia, consider this:
+The Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and Nvidia wasn’t one of them. The 10 stocks that made the cut could produce monster returns in the coming years.
+Consider when Netflix made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation, you’d have $526,499!* Or when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you’d have $687,684!*
+Now, it’s worth noting Stock Advisor’s total average return is 818% — a market-crushing outperformance compared to 156% for the S&P 500. Don't miss out on the latest top 10 list, available when you join Stock Advisor.
+See the 10 stocks ›
+
+*Stock Advisor returns as of April 14, 2025
+
+
+Bank of America is an advertising partner of Motley Fool Money. Trevor Jennewine has positions in Nvidia. The Motley Fool has positions in and recommends Baidu, Bank of America, Nvidia, and Tencent. The Motley Fool recommends Alibaba Group. The Motley Fool has a disclosure policy.
+This tech could reach 80 trillion. Imagine a technology worth over 26 Nvidias.
+What in the world could be worth 26 Nvidias? The answer is a radical tech breakthrough that our experts think is transforming every walk of life. And this giant leap forward has many on Wall Street very excited.
+Learn more ›
+Alert: Top Cash Back Card Now Offers 0% Intro APR Until 2026
+Enjoy 0% intro APR on purchases and balance transfers well into 2026—plus up to 5% cash back in popular categories.
+Stocks Mentioned
+
+*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.
+Related Articles
+Motley Fool Returns
+Market-beating stocks from our flagship service.
+Calculated by average return of all stock recommendations since inception of the Stock Advisor service in February of 2002. Returns as of 04/16/2025.
+Discounted offers are only available to new members. Stock Advisor list price is $199 per year.
+Calculated by Time-Weighted Return since 2002. Volatility profiles based on trailing-three-year calculations of the standard deviation of service investment returns.
+
+        Invest better with The Motley Fool. Get stock recommendations, portfolio guidance, and more from The Motley Fool's premium services.
+      
+Making the world smarter, happier, and richer.
+© 1995 - 2025 The Motley Fool. All rights reserved.
+Market data powered by Xignite and Polygon.io.
+About The Motley Fool
+Our Services
+Around the Globe
+Free Tools
+Affiliates & Friends
+Join Stock Advisor Now to Get Our Newest Rec and Save 50%*
+By signing up today, you secure your spot to be among the first to receive our latest stock recommendation when it's released at 1 pm ET tomorrow!
+Since inception, Motley Fool Stock Advisor has beaten the S&P 500 by 662.32%!** Don't Miss Out!
+ Continue ›
+*$99/year is a promotional price for new members only. 50% discount based on current list price of Stock Advisor of $199/year. Membership will renew annually at the then current list price.**Returns as of April 16, 2025.

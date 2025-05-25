@@ -1,0 +1,85 @@
+Title: Advanced Micro Devices, Inc. (AMD): A Bull Case Theory
+Date: 2025-04-16 18:42
+URL: https://finance.yahoo.com/news/advanced-micro-devices-inc-amd-184255905.html?.tsrc=rss
+
+Oops, something went wrong
+Tip: Try a valid symbol or a specific company name for relevant results
+Oops, something went wrong
+The Nasdaq was down over 4% as a tech-led sell-off intensified in late-afternoon trading
+The major indexes sank to session lows as Fed Chair Powell warned of stagflationary impacts from President Trump's tariffs.
+Powell sees 'challenging scenario' for Fed if Trump tariffs stoke inflation and slow growth
+The Nasdaq fell over 2%, leading the way down as Nvidia found itself caught in the crossfire of the US-China trade war.
+The Treasury secretary told us he thinks America's biggest CEOs should stop worrying about the economy. Here's why.
+The chipmaker's stock took a hit after it revealed the Trump administration's surprise new controls on exports to China.
+Stocks resume slide as Nvidia weighs on tech
+Retail sales surged in March at the biggest rate in over two years, in what was the latest sign of the US economy's pre-tariff strength.
+Why your water bill is an inflation problem that isn't budging
+Stock market today: Dow, S&P 500, Nasdaq futures fall as Nvidia reveals costly limits on China exports
+The Treasury secretary told Yahoo Finance that the next 90 days should provide 'substantial clarity' on tariffs
+Treasury Secretary Scott Bessent tells Yahoo Finance that the US has a 'big toolkit' to deal with bond market volatility
+Stocks drift lower as tariff chaos pauses for a day
+The chip giant committed to building AI infrastructure in the US, and Trump says he's going to help make it happen.
+The fallout from Trump's tariff whiplash hasn't yet pushed investors to shy away from an old habit
+Stocks edge higher after back-to-back rallies with Trump's latest tariff moves in focus
+BofA's Moynihan says 'we potentially face a changing economy' after highest-ever equities trading haul
+The trade war uncovers new economies of scale
+Trump is wrecking his own economic agenda
+Higher clothing costs from tariffs are coming soon — but not immediately, experts say
+Why Tesla, GM, and Rivian will be hurt most by China's critical minerals export ban
+Trump says he's 'looking at something' to help car companies with tariffs
+Stocks rally for second straight day, while Apple jumps on tech tariff reprieve
+The Nasdaq briefly turned red as stocks' relief rally failed to hold in early afternoon trading
+Americans are braced for the biggest unemployment rate jump since the pandemic, a New York Fed survey found
+Stocks surge as Apple leads way higher after tech's tariff reprieve
+Trump's temporary tech tariff respite adds to a growing sense that he has a willingness to listen and bend
+Goldman CEO Solomon warns of 'markedly different operating environment' as dealmaking slows
+Corporate earnings take center stage amid tariff turmoil: What to know this week
+Trump has tariffs, taxes, and the debt ceiling on a collision course for this summer
+Trump denies that there was a tariff “exception” for certain electronics announced Friday. (Bloomberg)
+Tax day 2025 is coming up. Here’s what to know to file by the deadline.
+Commentary: Put the P/E ratio in timeout for now
+Market chaos signals 'sell America' trade as Trump tariff whipsaw threatens to upend the US economy's soft landing
+Apple was on brink of crisis before tariff concession from Trump (Bloomberg)
+Corporate earnings take center stage amid tariff turmoil: What to know this week
+The best (and worst) time of year to buy a house
+The Trump family is going all-in on crypto projects, from Bitcoin mining to stablecoins (Bloomberg)
+How to invest in gold in 4 steps
+Changing jobs can disrupt saving for retirement. Here's how to stay on track.
+Trump exempts phones, computers, chips from ‘reciprocal’ tariffs (Bloomberg)
+Meet Walmart heir Steuart Walton, the most powerful board member you’ve never heard of
+The tariff uncertainty isn't getting any better in markets: Chart of the Week
+'T-shirts could be the new eggs': Why Trump's chaotic tariff whipsaw is still a huge threat to inflation
+Gold notches best week since 2020 amid 'shaken' investor confidence in US
+The bond market just had one of its most volatile and unusual weeks in recent memory
+Stocks capped a wild week with a surge higher, as the S&P 500 posted its biggest weekly gain since 2023
+Stocks swung into rally mode in afternoon trading, with the major indexes all up over 1%. Bond yields pared bigger gains.
+The major indexes whipsawed to end a volatile week. Treasury yields surged in signs of more instability in the bond market.
+Consumer sentiment craters further as inflation expectations soar to highest since 1981
+We came across a bullish thesis on Advanced Micro Devices, Inc. (AMD) on Substack by Felix. In this article, we will summarize the bulls’ thesis on AMD. Advanced Micro Devices, Inc. (AMD)'s share was trading at $95.29 as of April 15th. AMD’s trailing and forward P/E were 95.29 and 20.49 respectively according to Yahoo Finance.
+A close up of a complex looking PCB board with several intergrated semiconductor parts.
+AMD is rapidly positioning itself as a major player in the semiconductor industry, emerging as a strong competitor alongside larger firms like NVIDIA, particularly within the booming AI-driven sector. While NVIDIA has dominated the AI conversation, AMD has been quietly building a formidable AI strategy, focusing on its MI300X AI accelerators. This innovation, coupled with a robust and diverse product portfolio, has enabled AMD to gain significant traction in the data center market, which is experiencing exponential growth. In fact, the data center segment now accounts for 50% of AMD's revenue, having experienced a remarkable 94% year-over-year growth in 2024, underscoring the company's ability to capitalize on the rising demand for cloud computing and AI technologies.
+AMD's business model is anchored in four core segments: data centers, client computing, gaming, and embedded solutions. Each of these areas plays a vital role in the company’s growth, but it is the data center business, driven by AMD's EPYC processors and MI300X GPUs, that has proven to be the most lucrative. The global expansion of cloud infrastructure has created an essential market for AMD’s chips, which are crucial for powering virtual machines and optimizing cloud services, making the company an integral part of the digital transformation. Meanwhile, the client computing segment, which is driven by AMD’s Ryzen processors, is also growing, though it contributes less than the data center business. However, AMD has faced challenges in its gaming and embedded segments, where it has seen declines of 58% and 33%, respectively, due to market slowdowns and overall contraction in the gaming industry.
+Despite these challenges, AMD’s prospects remain highly promising, particularly within the data center market. The growing demand for AI and machine learning applications presents a massive opportunity for the company. AMD’s MI300X GPU is specifically designed for high-performance AI workloads, making it indispensable for cloud service providers such as Amazon Web Services and Microsoft Azure. By offering a cost-effective alternative to NVIDIA’s offerings, AMD is providing businesses with the tools they need to optimize operations while reducing costs, an attractive proposition as the cloud computing market continues to expand.
+A key factor behind AMD’s success is its technological advantage. The company has built a strong moat around its products through innovation, price-to-performance leadership, and strategic partnerships. AMD's Zen architecture powers both its Ryzen and EPYC chips, offering superior performance and energy efficiency compared to its main rival, Intel. This gives AMD a competitive edge, particularly in the data center sector, where power efficiency and performance are paramount. Furthermore, AMD’s RDNA and CDNA architectures, which power its GPUs, have positioned the company as a serious competitor to NVIDIA in both gaming and AI, offering better performance at more attractive price points. Strategic partnerships with companies like Microsoft, Sony, Dell, and Google have also been integral to AMD’s success, providing access to key markets like gaming consoles, cloud services, and enterprise computing.
+In addition to its technological prowess, AMD has a strong manufacturing capability, thanks to its partnership with TSMC. Through this collaboration, AMD is able to produce chips using the advanced 7nm and 5nm processes, resulting in faster and more energy-efficient products. This has allowed the company to scale production effectively while maintaining competitive pricing, thereby building a loyal customer base among gamers, tech enthusiasts, and enterprise clients alike.
+Looking to the future, AMD is well-positioned to continue benefiting from the growth in the data center market. The company’s EPYC processors and MI300X GPUs are tailored to support the next generation of data centers, which will be crucial for handling the growing demands of AI, machine learning, and other data-intensive applications. Furthermore, AMD’s focus on energy efficiency and cost-effectiveness makes its solutions even more appealing to businesses looking to optimize their cloud infrastructure, solidifying the company’s role in the next wave of digital transformation.
+In conclusion, AMD’s diverse revenue streams, strong technological moat, and strategic positioning in the data center market make it an attractive investment. While its gaming and embedded segments may face temporary challenges, the long-term growth prospects in AI and cloud computing provide a clear path for sustained success. With its ability to innovate and compete effectively with larger players like NVIDIA, AMD is well on its way to becoming a dominant force in the semiconductor industry. Investors looking for exposure to the rapidly growing AI market would be wise to keep an eye on AMD, as the company’s compelling growth potential offers significant upside in the coming years.
+Advanced Micro Devices, Inc. (AMD) is not on our list of the 30 Most Popular Stocks Among Hedge Funds. As per our database, 96 hedge fund portfolios held AMD at the end of the fourth quarter which was 107 in the previous quarter. While we acknowledge the risk and potential of AMD as an investment, our conviction lies in the belief that some AI stocks hold greater promise for delivering higher returns, and doing so within a shorter timeframe. If you are looking for an AI stock that is more promising than AMD but that trades at less than 5 times its earnings, check out our report about the cheapest AI stock.
+READ NEXT: 8 Best Wide Moat Stocks to Buy Now and 30 Most Important AI Stocks According to BlackRock.
+Disclosure: None. This article was originally published at Insider Monkey.
+Nvidia discloses that sales of its H20 chips to China would require a license ‘for the indefinite future’ from the U.S. Department of Commerce, AMD says a license requirement for chip exports will result in charges of up to $800 million, and ASML issues disappointing sales guidance.
+We came across a bullish thesis on Taiwan Semiconductor Manufacturing Company Limited (TSM) on Substack by Oguz Erkan. In this article, we will summarize the bulls’ thesis on TSM. Taiwan Semiconductor Manufacturing Company Limited (TSM)’s share was trading at $155.84 as of April 14th. TSM’s trailing and forward P/E were 22.60 and 17.48 respectively according to […]
+The U.S.-China tech war just claimed another high-profile casualty.
+US benchmark equity indexes tumbled intraday as a sell-off in Nvidia (NVDA) shares weighed on the br
+Nvidia (NASDAQ: NVDA) shares fell more than 7% on Wednesday morning, after the company disclosed new export restrictions on its artificial intelligence (AI) chips.  Specifically, the company must now obtain licenses from the U.S. government to sell its H20 processors in China.  Nvidia stock now has plummeted 30% from the record high it reached in January.
+U.S. markets fell deep into the red on Wednesday, with chip stocks leading the retreat as U.S.-China trade tensions spooked investors. The tech-heavy Nasdaq was down sharply, off about 3.3% in afternoon trading. The S&P 500 lost 2.2% and the Dow Jones Industrial average fell 630 points, or 1.5%. Losses rippled across sectors, dragging the Russell 2000 down about 1%.
+Prospect is set to commence its phase two drilling programme at Mumbezhi in Q2 2025.
+We recently published a list of 10 AI Stocks You Shouldn’t Overlook Right Now. In this article, we are going to take a look at where NVIDIA Corporation (NASDAQ:NVDA) stands against other AI stocks you shouldn’t overlook right now. According to Adam Thierer, a senior fellow at the center-right think tank R Street Institute, Trump’s […]
+Wild fluctuations on Wall Street represent the ideal time for investors to put their cash to work.
+It's no surprise that when companies dominate their industries, their stock prices tend to have long-term success. Apple and Amazon are two of the most widely discussed names when it comes to business...
+Tip: Try a valid symbol or a specific company name for relevant results
+Sign in to access your portfolio
+
+
+
+Try again.

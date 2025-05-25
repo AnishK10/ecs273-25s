@@ -1,0 +1,24 @@
+{
+    "data": [
+      { "value": "ExxonMobil", "category": "XOM" },
+      { "value": "Chevron", "category": "CVX" },
+      { "value": "Halliburton", "category": "HAL" },
+      { "value": "3M", "category": "MMM" },
+      { "value": "Caterpillar", "category": "CAT" },
+      { "value": "Delta Airlines", "category": "DAL" },
+      { "value": "McDonald's", "category": "MCD" },
+      { "value": "Nike", "category": "NKE" },
+      { "value": "Coca-Cola", "category": "KO" },
+      { "value": "Johnson & Johnson", "category": "JNJ" },
+      { "value": "Pfizer", "category": "PFE" },
+      { "value": "UnitedHealth Group", "category": "UNH" },
+      { "value": "JPMorgan Chase", "category": "JPM" },
+      { "value": "Goldman Sachs", "category": "GS" },
+      { "value": "Bank of America", "category": "BAC" },
+      { "value": "Apple", "category": "AAPL" },
+      { "value": "Microsoft", "category": "MSFT" },
+      { "value": "Nvidia", "category": "NVDA" },
+      { "value": "Alphabet", "category": "GOOGL" },
+      { "value": "Meta Platforms", "category": "META" }
+    ]
+  }

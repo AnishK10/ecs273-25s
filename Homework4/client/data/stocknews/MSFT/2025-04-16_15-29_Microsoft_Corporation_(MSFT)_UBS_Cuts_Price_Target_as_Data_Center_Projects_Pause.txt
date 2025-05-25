@@ -1,0 +1,89 @@
+Title: Microsoft Corporation (MSFT): UBS Cuts Price Target as Data Center Projects Pause
+Date: 2025-04-16 15:29
+URL: https://finance.yahoo.com/news/microsoft-corporation-msft-ubs-cuts-152908161.html?.tsrc=rss
+
+Oops, something went wrong
+Tip: Try a valid symbol or a specific company name for relevant results
+Oops, something went wrong
+The Nasdaq was down over 4% as a tech-led sell-off intensified in late-afternoon trading
+The major indexes sank to session lows as Fed Chair Powell warned of stagflationary impacts from President Trump's tariffs.
+Powell sees 'challenging scenario' for Fed if Trump tariffs stoke inflation and slow growth
+The Nasdaq fell over 2%, leading the way down as Nvidia found itself caught in the crossfire of the US-China trade war.
+The Treasury secretary told us he thinks America's biggest CEOs should stop worrying about the economy. Here's why.
+The chipmaker's stock took a hit after it revealed the Trump administration's surprise new controls on exports to China.
+Stocks resume slide as Nvidia weighs on tech
+Retail sales surged in March at the biggest rate in over two years, in what was the latest sign of the US economy's pre-tariff strength.
+Why your water bill is an inflation problem that isn't budging
+Stock market today: Dow, S&P 500, Nasdaq futures fall as Nvidia reveals costly limits on China exports
+The Treasury secretary told Yahoo Finance that the next 90 days should provide 'substantial clarity' on tariffs
+Treasury Secretary Scott Bessent tells Yahoo Finance that the US has a 'big toolkit' to deal with bond market volatility
+Stocks drift lower as tariff chaos pauses for a day
+The chip giant committed to building AI infrastructure in the US, and Trump says he's going to help make it happen.
+The fallout from Trump's tariff whiplash hasn't yet pushed investors to shy away from an old habit
+Stocks edge higher after back-to-back rallies with Trump's latest tariff moves in focus
+BofA's Moynihan says 'we potentially face a changing economy' after highest-ever equities trading haul
+The trade war uncovers new economies of scale
+Trump is wrecking his own economic agenda
+Higher clothing costs from tariffs are coming soon — but not immediately, experts say
+Why Tesla, GM, and Rivian will be hurt most by China's critical minerals export ban
+Trump says he's 'looking at something' to help car companies with tariffs
+Stocks rally for second straight day, while Apple jumps on tech tariff reprieve
+The Nasdaq briefly turned red as stocks' relief rally failed to hold in early afternoon trading
+Americans are braced for the biggest unemployment rate jump since the pandemic, a New York Fed survey found
+Stocks surge as Apple leads way higher after tech's tariff reprieve
+Trump's temporary tech tariff respite adds to a growing sense that he has a willingness to listen and bend
+Goldman CEO Solomon warns of 'markedly different operating environment' as dealmaking slows
+Corporate earnings take center stage amid tariff turmoil: What to know this week
+Trump has tariffs, taxes, and the debt ceiling on a collision course for this summer
+Trump denies that there was a tariff “exception” for certain electronics announced Friday. (Bloomberg)
+Tax day 2025 is coming up. Here’s what to know to file by the deadline.
+Commentary: Put the P/E ratio in timeout for now
+Market chaos signals 'sell America' trade as Trump tariff whipsaw threatens to upend the US economy's soft landing
+Apple was on brink of crisis before tariff concession from Trump (Bloomberg)
+Corporate earnings take center stage amid tariff turmoil: What to know this week
+The best (and worst) time of year to buy a house
+The Trump family is going all-in on crypto projects, from Bitcoin mining to stablecoins (Bloomberg)
+How to invest in gold in 4 steps
+Changing jobs can disrupt saving for retirement. Here's how to stay on track.
+Trump exempts phones, computers, chips from ‘reciprocal’ tariffs (Bloomberg)
+Meet Walmart heir Steuart Walton, the most powerful board member you’ve never heard of
+The tariff uncertainty isn't getting any better in markets: Chart of the Week
+'T-shirts could be the new eggs': Why Trump's chaotic tariff whipsaw is still a huge threat to inflation
+Gold notches best week since 2020 amid 'shaken' investor confidence in US
+The bond market just had one of its most volatile and unusual weeks in recent memory
+Stocks capped a wild week with a surge higher, as the S&P 500 posted its biggest weekly gain since 2023
+Stocks swung into rally mode in afternoon trading, with the major indexes all up over 1%. Bond yields pared bigger gains.
+The major indexes whipsawed to end a volatile week. Treasury yields surged in signs of more instability in the bond market.
+Consumer sentiment craters further as inflation expectations soar to highest since 1981
+We recently published a list of 10 AI Stocks on the Move. In this article, we are going to take a look at where Microsoft Corporation (NASDAQ:MSFT) stands against other AI stocks on the move.
+Market uncertainty aside, the AI race is tighter than ever. A report by Stanford University’s Institute for Human-Centered AI (HAI) states that not only has the battlefield become tighter, but also more crowded than previously. The report notes that Google and OpenAI are neck to neck in the race to build cutting-edge AI, and that other companies are fiercely closing in. Meta, Anthropic, and Elon Musk’s xAI are a few of these names. Chinese competitors are also closing in on the AI race. In particular, DeepSeek’s R1 model is very close to the top-performing models of two of the leading AI companies.
+“It creates an exciting space. It’s good that these models are not all developed by five guys in Silicon Valley. Chinese models are catching up as far as performance to the US models..but across the globe, there are new players emerging in the space.”
+In recent news, OpenAI has launched its new AI model GPT-4.1, along with smaller versions GPT-4.1 mini and GPT-4.1 nano. These models boast major improvements in coding, instruction following, and long context comprehension.
+READ NOW: 10 AI Stocks to Watch Amid Market Volatility and 14 AI Stocks Catching Wall Street’s Attention
+According to OpenAI, the models outperform the company’s most advanced GPT-4o model across the board and are available only on OpenAI’s application programming interface (API). In particular, the GPT-4.1 brags a 21% improvement over GPT-4o and 27% over GPT-4.5 on coding. Moreover, there are improvements in instruction following and long context comprehension, which make these models a better choice for powering AI agents.
+“Benchmarks are strong, but we focused on real-world utility, and developers seem very happy.”
+OpenAI also noted that these models operate at a “much lower cost” compared to GPT-4.5, and that the company would turn off the GPT-4.5 preview that is available in the API in July because the new models offer “improved or similar performance.”
+For this article, we selected AI stocks by going through news articles, stock analysis, and press releases. These stocks are also popular among hedge funds. The hedge fund data is as of Q4 2024.
+Why are we interested in the stocks that hedge funds pile into? The reason is simple: our research has shown that we can outperform the market by imitating the top stock picks of the best hedge funds. Our quarterly newsletter’s strategy selects 14 small-cap and large-cap stocks every quarter and has returned 373.4% since May 2014, beating its benchmark by 218 percentage points  (see more details here).
+A development team working together to create the next version of Windows.
+Number of Hedge Fund Holders: 317
+Microsoft Corporation (NASDAQ:MSFT) provides AI-powered cloud, productivity, and business solutions, focusing on efficiency, security, and AI advancements. On April 14, UBS lowered the firm’s price target on the stock to $480 from $510 and kept a “Buy” rating on the shares. The firm’s price target revision comes after Microsoft’s formal acknowledgement that it is slowing or pausing some data center projects. The firm’s evaluation reveals that Microsoft’s adjustments are most likely not AI demand-related, and that the pausing activity isn’t a materially negative AI demand signal. The analyst further told investors in a research note that any capacity changes related to OpenAI can be absorbed by Oracle and others.
+Overall, MSFT ranks 1st on our list of AI stocks on the move. While we acknowledge the potential of MSFT as an investment, our conviction lies in the belief that some AI stocks hold greater promise for delivering higher returns and doing so within a shorter time frame. There is an AI stock that went up since the beginning of 2025, while popular AI stocks lost around 25%. If you are looking for an AI stock that is more promising than MSFT but that trades at less than 5 times its earnings, check out our report about this cheapest AI stock.
+READ NEXT: 20 Best AI Stocks To Buy Now and 30 Best Stocks to Buy Now According to Billionaires.
+Disclosure: None. This article is originally published at Insider Monkey.
+With a better price performance and attractive valuation metrics, IBM is relatively better placed than MSFT at the moment.
+Despite the stock market’s current volatility, the longer-term outlook of technology is bright because large companies are going to invest in AI in order to reduce their costs and grow, Daniel Newman, the CEO of the Futurum Group told Schwab Network today. Newman is most bullish on tech names that have a great deal of […]
+NextEra (NEE) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.
+We recently compiled a list of the 14 Best American Tech Stocks To Buy Now. In this article, we are going to take a look at where Meta Platforms, Inc. (NASDAQ:META) stands against the other American tech stocks. American stocks moved up a bit on Monday, April 14 as investors focused on news about tech […]
+We recently compiled a list of the 14 Best American Tech Stocks To Buy Now. In this article, we are going to take a look at where NVIDIA Corporation (NASDAQ:NVDA) stands against the other American tech stocks. American stocks moved up a bit on Monday, April 14 as investors focused on news about tech companies […]
+Apple stock fell more than 2% late Wednesday morning, once again putting its market capitalization below the $3 trillion mark after a brief rally.
+The company plans to use the capital to further develop its technology, expand into new markets, among others.
+The merged business, named TI Automotive, will have a combined revenue of $5.4bn and a workforce of about 34,600 across 26 countries.
+Trump wants to bring tech manufacturing to the US. There's little chance it will happen.
+We recently published a list of 13 Best NASDAQ Stocks to Buy So Far in 2025. In this article, we are going to take a look at where Broadcom Inc. (NASDAQ:AVGO) stands against other NASDAQ stocks to buy in 2025. On April 4, Wedbush analyst Dan Ives appeared on CNBC to discuss the potential impact […]
+Tip: Try a valid symbol or a specific company name for relevant results
+Sign in to access your portfolio
+
+
+
+Try again.

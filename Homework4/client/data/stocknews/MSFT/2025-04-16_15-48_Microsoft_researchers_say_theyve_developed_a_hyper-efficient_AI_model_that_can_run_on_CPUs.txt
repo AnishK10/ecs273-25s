@@ -1,0 +1,214 @@
+Title: Microsoft researchers say they've developed a hyper-efficient AI model that can run on CPUs
+Date: 2025-04-16 15:48
+URL: https://techcrunch.com/2025/04/16/microsoft-researchers-say-theyve-developed-a-hyper-efficient-ai-model-that-can-run-on-cpus/?.tsrc=rss
+
+Latest	
+
+
+
+		AI	
+
+
+
+		Amazon	
+
+
+
+		Apps	
+
+
+
+		Biotech & Health	
+
+
+
+		Climate	
+
+
+
+		Cloud Computing	
+
+
+
+		Commerce	
+
+
+
+		Crypto	
+
+
+
+		Enterprise	
+
+
+
+		EVs	
+
+
+
+		Fintech	
+
+
+
+		Fundraising	
+
+
+
+		Gadgets	
+
+
+
+		Gaming	
+
+
+
+		Google	
+
+
+
+		Government & Policy	
+
+
+
+		Hardware	
+
+
+
+		Instagram	
+
+
+
+		Layoffs	
+
+
+
+		Media & Entertainment	
+
+
+
+		Meta	
+
+
+
+		Microsoft	
+
+
+
+		Privacy	
+
+
+
+		Robotics	
+
+
+
+		Security	
+
+
+
+		Social	
+
+
+
+		Space	
+
+
+
+		Startups	
+
+
+
+		TikTok	
+
+
+
+		Transportation	
+
+
+
+		Venture	
+
+
+
+		Events	
+
+
+
+		Startup Battlefield	
+
+
+
+		StrictlyVC	
+
+
+
+		Newsletters	
+
+
+
+		Podcasts	
+
+
+
+		Videos	
+
+
+
+		Partner Content	
+
+
+
+		TechCrunch Brand Studio	
+
+
+
+		Crunchboard	
+
+
+
+		Contact Us	
+
+Microsoft researchers claim they’ve developed the largest-scale 1-bit AI model, also known as a “bitnet,” to date. Called BitNet b1.58 2B4T, it’s openly available under an MIT license and can run on CPUs, including Apple’s M2.
+Bitnets are essentially compressed models designed to run on lightweight hardware. In standard models, weights, the values that define the internal structure of a model, are often quantized so the models perform well on a wide range of machines. Quantizing the weights lowers the number of bits — the smallest units a computer can process — needed to represent those weights, enabling models to run on chips with less memory, faster.
+Bitnets quantize weights into just three values: -1, 0, and 1. In theory, that makes them far more memory- and computing-efficient than most models today.
+The Microsoft researchers say that BitNet b1.58 2B4T is the first bitnet with 2 billion parameters, “parameters” being largely synonymous with “weights.” Trained on a dataset of 4 trillion tokens — equivalent to about 33 million books, by one estimate — BitNet b1.58 2B4T outperforms traditional models of similar sizes, the researchers claim.
+BitNet b1.58 2B4T doesn’t sweep the floor with rival 2 billion-parameter models, to be clear, but it seemingly holds its own. According to the researchers’ testing, the model surpasses Meta’s Llama 3.2 1B, Google’s Gemma 3 1B, and Alibaba’s Qwen 2.5 1.5B on benchmarks including GSM8K (a collection of grade-school-level math problems) and PIQA (which tests physical commonsense reasoning skills).
+Perhaps more impressively, BitNet b1.58 2B4T is speedier than other models of its size — in some cases, twice the speed — while using a fraction of the memory. 
+There is a catch, however. 
+Achieving that performance requires using Microsoft’s custom framework, bitnet.cpp, which only works with certain hardware at the moment. Absent from the list of supported chips are GPUs, which dominate the AI infrastructure landscape. 
+That’s all to say that bitnets may hold promise, particularly for resource-constrained devices. But compatibility is — and will likely remain — a big sticking point.
+Topics
+
+AI Editor
+
+ Figma ignores the fear, files paperwork for an IPO
+
+
+
+ For security, Android phones will now auto-reboot after three days
+
+
+
+ Figma sent a cease-and-desist letter to Lovable over the term ‘Dev Mode’
+
+
+
+ Anthropic forms a new team to grow its AWS business
+
+
+
+ Notorious image board 4chan hacked and internal data leaked
+
+
+
+ Notion releases an AI-powered email client for Gmail
+
+
+
+ Hertz says customers’ personal data and driver’s licenses stolen in data breach
+
+
+
+© 2025 Yahoo.
+1,200+ founders & VCs. One epic day in Boston on July 15. Scale smarter, connect deeper — save $210 when you register now!
+1,200+ founders & VCs. One epic day in Boston on July 15. Scale smarter, connect deeper — save $210 when you register now!

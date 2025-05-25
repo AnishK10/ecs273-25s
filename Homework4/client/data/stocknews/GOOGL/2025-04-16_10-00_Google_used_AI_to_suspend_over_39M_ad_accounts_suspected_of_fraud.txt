@@ -1,0 +1,221 @@
+Title: Google used AI to suspend over 39M ad accounts suspected of fraud
+Date: 2025-04-16 10:00
+URL: https://techcrunch.com/2025/04/16/google-used-ai-to-suspend-over-39m-ad-accounts-committing-fraud/?.tsrc=rss
+
+Latest	
+
+
+
+		AI	
+
+
+
+		Amazon	
+
+
+
+		Apps	
+
+
+
+		Biotech & Health	
+
+
+
+		Climate	
+
+
+
+		Cloud Computing	
+
+
+
+		Commerce	
+
+
+
+		Crypto	
+
+
+
+		Enterprise	
+
+
+
+		EVs	
+
+
+
+		Fintech	
+
+
+
+		Fundraising	
+
+
+
+		Gadgets	
+
+
+
+		Gaming	
+
+
+
+		Google	
+
+
+
+		Government & Policy	
+
+
+
+		Hardware	
+
+
+
+		Instagram	
+
+
+
+		Layoffs	
+
+
+
+		Media & Entertainment	
+
+
+
+		Meta	
+
+
+
+		Microsoft	
+
+
+
+		Privacy	
+
+
+
+		Robotics	
+
+
+
+		Security	
+
+
+
+		Social	
+
+
+
+		Space	
+
+
+
+		Startups	
+
+
+
+		TikTok	
+
+
+
+		Transportation	
+
+
+
+		Venture	
+
+
+
+		Events	
+
+
+
+		Startup Battlefield	
+
+
+
+		StrictlyVC	
+
+
+
+		Newsletters	
+
+
+
+		Podcasts	
+
+
+
+		Videos	
+
+
+
+		Partner Content	
+
+
+
+		TechCrunch Brand Studio	
+
+
+
+		Crunchboard	
+
+
+
+		Contact Us	
+
+Google on Wednesday said it suspended 39.2 million advertiser accounts on its platform in 2024  — more than triple the number from the previous year — in its latest crackdown on ad fraud.
+By leveraging large language models (LLMs) and using signals such as business impersonation and illegitimate payment details, the search giant said it could suspend a “vast majority” of ad accounts before they ever served an ad.
+Last year, Google launched over 50 LLM enhancements to improve its safety enforcement mechanisms across all its platforms.
+“While these AI models are very, very important to us and have delivered a series of impressive improvements, we still have humans involved throughout the process,” said Alex Rodriguez, a general manager for Ads Safety at Google, in a virtual media roundtable.
+The executive told reporters that a team of over 100 experts assembled across Google, including members from the Ads Safety team, the Trust and Safety division, and researchers from DeepMind. They analyzed deepfake ad scams involving public figure impersonations and developed countermeasures. 
+The company introduced technical countermeasures and over 30 ads and publisher policy updates last year. These moves helped suspend over 700,000 offending advertising accounts, leading to a 90% drop in reports of deepfake ads, the company claims.
+In the U.S. alone, Google said it suspended 39.2 million advertiser accounts and took down 1.8 billion ads last year, with key violations tied to ad network abuse, trademark misuse, healthcare claims, personalized ads, and misrepresentation.
+India, the world’s most populous country and the second biggest internet market after China in terms of users, saw 2.9 million account suspensions last year, Google said, making it the second-highest after the U.S. The company also removed 247.4 million ads in India, with the top five policy violations related to financial services, trademark misuse, ad network abuse, personalized ads, and gambling and games.
+Of all the advertiser account suspensions, Google said it suspended 5 million accounts for scam-related violations.
+Overall, the company removed almost half a billion ads related to scams.
+Google also verified more than 8,900 new election advertisers in 2024, which saw half of the world’s population go to the polls, and removed 10.7 million election ads. However, Rodriguez noted that the volume of election ads compared to Google’s overall ad numbers was relatively small and would not significantly impact its safety metrics this year.
+In total, Google said it blocked 5.1 billion ads last year and removed 1.3 billion pages. In comparison, it blocked over 5.5 billion ads and took action against 2.1 billion publisher pages in 2023.
+Google told TechCrunch that the decreasing numbers indicated improvements in its prevention efforts. By improving early detection and suspension of malicious accounts, fewer harmful ads are produced or reach the platform, the company said.
+The company also restricted 9.1 billion ads last year, it said. 
+Importantly, large-scale suspensions sometimes spark concerns over how fairly a company applies its rules. Google said it offers an appeal process that includes human reviews to ensure it took “appropriate action.”
+“Oftentimes, some of our message wasn’t as clear and transparent about specifics, about what the rationale was, or reasoning, and sometimes that left the advertiser a little more confused. We ended up updating a bunch of our policies as it related to that, a bunch of our transparency capabilities in terms of the messaging around what and why to help the advertiser … It’s been a big focus for the team as part of 2024 and into 2025,” Rodriguez said.
+Topics
+
+Reporter
+
+ For security, Android phones will now auto-reboot after three days
+
+
+
+ Figma sent a cease-and-desist letter to Lovable over the term ‘Dev Mode’
+
+
+
+ Anthropic forms a new team to grow its AWS business
+
+
+
+ Anthropic’s Claude can now read your Gmail
+
+
+
+ Notorious image board 4chan hacked and internal data leaked
+
+
+
+ Notion releases an AI-powered email client for Gmail
+
+
+
+ Hertz says customers’ personal data and driver’s licenses stolen in data breach
+
+
+
+© 2025 Yahoo.
+1,200+ founders & VCs. One epic day in Boston on July 15. Scale smarter, connect deeper — save $210 when you register now!
+1,200+ founders & VCs. One epic day in Boston on July 15. Scale smarter, connect deeper — save $210 when you register now!

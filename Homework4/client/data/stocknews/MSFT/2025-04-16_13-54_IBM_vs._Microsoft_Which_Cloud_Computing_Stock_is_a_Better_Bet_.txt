@@ -1,0 +1,91 @@
+Title: IBM vs. Microsoft: Which Cloud Computing Stock is a Better Bet?
+Date: 2025-04-16 13:54
+URL: https://finance.yahoo.com/news/ibm-vs-microsoft-cloud-computing-135400482.html?.tsrc=rss
+
+Oops, something went wrong
+Tip: Try a valid symbol or a specific company name for relevant results
+Oops, something went wrong
+The Nasdaq was down over 4% as a tech-led sell-off intensified in late-afternoon trading
+The major indexes sank to session lows as Fed Chair Powell warned of stagflationary impacts from President Trump's tariffs.
+Powell sees 'challenging scenario' for Fed if Trump tariffs stoke inflation and slow growth
+The Nasdaq fell over 2%, leading the way down as Nvidia found itself caught in the crossfire of the US-China trade war.
+The Treasury secretary told us he thinks America's biggest CEOs should stop worrying about the economy. Here's why.
+The chipmaker's stock took a hit after it revealed the Trump administration's surprise new controls on exports to China.
+Stocks resume slide as Nvidia weighs on tech
+Retail sales surged in March at the biggest rate in over two years, in what was the latest sign of the US economy's pre-tariff strength.
+Why your water bill is an inflation problem that isn't budging
+Stock market today: Dow, S&P 500, Nasdaq futures fall as Nvidia reveals costly limits on China exports
+The Treasury secretary told Yahoo Finance that the next 90 days should provide 'substantial clarity' on tariffs
+Treasury Secretary Scott Bessent tells Yahoo Finance that the US has a 'big toolkit' to deal with bond market volatility
+Stocks drift lower as tariff chaos pauses for a day
+The chip giant committed to building AI infrastructure in the US, and Trump says he's going to help make it happen.
+The fallout from Trump's tariff whiplash hasn't yet pushed investors to shy away from an old habit
+Stocks edge higher after back-to-back rallies with Trump's latest tariff moves in focus
+BofA's Moynihan says 'we potentially face a changing economy' after highest-ever equities trading haul
+The trade war uncovers new economies of scale
+Trump is wrecking his own economic agenda
+Higher clothing costs from tariffs are coming soon — but not immediately, experts say
+Why Tesla, GM, and Rivian will be hurt most by China's critical minerals export ban
+Trump says he's 'looking at something' to help car companies with tariffs
+Stocks rally for second straight day, while Apple jumps on tech tariff reprieve
+The Nasdaq briefly turned red as stocks' relief rally failed to hold in early afternoon trading
+Americans are braced for the biggest unemployment rate jump since the pandemic, a New York Fed survey found
+Stocks surge as Apple leads way higher after tech's tariff reprieve
+Trump's temporary tech tariff respite adds to a growing sense that he has a willingness to listen and bend
+Goldman CEO Solomon warns of 'markedly different operating environment' as dealmaking slows
+Corporate earnings take center stage amid tariff turmoil: What to know this week
+Trump has tariffs, taxes, and the debt ceiling on a collision course for this summer
+Trump denies that there was a tariff “exception” for certain electronics announced Friday. (Bloomberg)
+Tax day 2025 is coming up. Here’s what to know to file by the deadline.
+Commentary: Put the P/E ratio in timeout for now
+Market chaos signals 'sell America' trade as Trump tariff whipsaw threatens to upend the US economy's soft landing
+Apple was on brink of crisis before tariff concession from Trump (Bloomberg)
+Corporate earnings take center stage amid tariff turmoil: What to know this week
+The best (and worst) time of year to buy a house
+The Trump family is going all-in on crypto projects, from Bitcoin mining to stablecoins (Bloomberg)
+How to invest in gold in 4 steps
+Changing jobs can disrupt saving for retirement. Here's how to stay on track.
+Trump exempts phones, computers, chips from ‘reciprocal’ tariffs (Bloomberg)
+Meet Walmart heir Steuart Walton, the most powerful board member you’ve never heard of
+The tariff uncertainty isn't getting any better in markets: Chart of the Week
+'T-shirts could be the new eggs': Why Trump's chaotic tariff whipsaw is still a huge threat to inflation
+Gold notches best week since 2020 amid 'shaken' investor confidence in US
+The bond market just had one of its most volatile and unusual weeks in recent memory
+Stocks capped a wild week with a surge higher, as the S&P 500 posted its biggest weekly gain since 2023
+Stocks swung into rally mode in afternoon trading, with the major indexes all up over 1%. Bond yields pared bigger gains.
+The major indexes whipsawed to end a volatile week. Treasury yields surged in signs of more instability in the bond market.
+Consumer sentiment craters further as inflation expectations soar to highest since 1981
+International Business Machines Corporation IBM and Microsoft Corporation MSFT are two of the leading players in the global cloud computing industry. IBM offers cloud and data solutions that aid enterprises in digital transformation. In addition to hybrid cloud services, the company provides advanced information technology solutions, computer systems, quantum computing and supercomputing solutions, enterprise software, storage systems and microelectronics.On the other hand, Microsoft’s Azure cloud platform offers several hybrid solutions that can host applications and workloads and provide security and operational tools for hybrid environments. Azure hybrid services range from virtualized hardware that hosts traditional IT apps and databases to integrated platform as a service solution for on-premises, edge and multi-cloud scenarios. With a focus on hybrid cloud and AI (artificial intelligence), both IBM and Microsoft are strategically positioned in the cloud infrastructure market and have the wherewithal to cater to the evolving demands of business enterprises. Let us delve a little deeper into the companies’ competitive dynamics to understand which of the two is relatively better placed in the industry.
+IBM is poised to benefit from healthy demand trends for hybrid cloud and AI, which drive the Software and Consulting segments. The company’s growth is expected to be aided by analytics, cloud computing and security in the long term. IBM recently extended its collaboration with NVIDIA Corporation NVDA to scale AI workloads and agentic AI applications. Per the latest agreement, IBM aims to launch a content-aware storage (CAS) capability for its hybrid cloud infrastructure offering (dubbed IBM Fusion) and expand its watsonx integrations with NVIDIA while introducing new IBM Consulting capabilities. The CAS capability will enable firms to extract the hidden meaning of unstructured data for inferencing to scale and enhance AI applications without compromising on security. The integration of watsonx with NVIDIA Inference Microservices will offer firms greater accessibility to leading AI models across multiple cloud environments. IBM’s watsonx platform is likely to be the core technology platform for its AI capabilities. This enterprise-ready AI and data platform delivers the value of foundational models to the enterprise, enabling them to be more productive.Despite solid hybrid cloud and AI traction, IBM is facing stiff competition from Amazon Web Services and Microsoft Azure. Increasing pricing pressure is eroding margins, and profitability has trended down over the years, barring occasional spikes. The company’s ongoing, heavily time-consuming business model transition to the cloud is a challenging task. Weakness in its traditional business and foreign exchange volatility remain significant concerns.
+Microsoft has doubled down on the cloud computing opportunity. Azure’s increased availability in more than 60 announced regions globally is expected to have strengthened Microsoft’s competitive position in the cloud computing market. The rising adoption of enterprise capabilities of Azure OpenAI and Copilots across Microsoft 365, Dynamics 365 and Power Platform is expected to be a game changer. With Azure AI, Microsoft is building out the app server for the AI wave, providing access to the most diverse selection of models to meet customers’ unique cost, latency and design considerations. The number of Azure AI customers and average spending continues to grow. The company has more than 60,000 Azure AI customers, up nearly 60% year over year. Microsoft is aggressively expanding its cloud infrastructure, with data centers now operating in more than 60 regions globally. Recent announcements of new cloud and AI investments in Brazil, Italy, Mexico and Sweden demonstrate the company's commitment to meeting long-term demand signals. The company's partnership with OpenAI continues to yield benefits, with significant Azure commitments driving commercial bookings growth of 67%. However, the substantial capital expenditure required for AI infrastructure expansion may weigh on margins in the coming quarters. The company's cloud gross margin percentage decreased 2 points year over year to 71% in the second quarter of fiscal 2025, primarily due to AI infrastructure scaling costs. Capital expenditures, including finance leases, reached $20 billion, with approximately half allocated to long-lived assets supporting 15-year monetization horizons. In addition, while Azure's growth remains impressive, the company faces capacity constraints in AI services that could limit near-term growth potential.
+The Zacks Consensus Estimate for IBM’s 2025 sales and EPS implies year-over-year growth of 3.1% and 3.9%, respectively. The EPS estimates, however, have been trending southward over the past 60 days.
+Image Source: Zacks Investment Research
+The Zacks Consensus Estimate for Microsoft’s 2025 sales and EPS implies year-over-year growth of 12.3% and 10.5%, respectively. The EPS estimates have been trending southward over the past 60 days.
+Image Source: Zacks Investment Research
+Over the past year, IBM has gained 31.5% against the industry’s decline of 16.1%. Microsoft has lost 6.4% over the same period.
+Image Source: Zacks Investment Research
+IBM looks more attractive than Microsoft from a valuation standpoint. Going by the price/earnings ratio, IBM’s shares currently trade at 21.96 forward earnings, significantly lower than 26.95 for Microsoft.
+Image Source: Zacks Investment Research
+Both IBM and Microsoft carry a Zacks Rank #3 (Hold). You can see the complete list of today’s Zacks #1 Rank (Strong Buy) stocks here.Both companies expect their sales and profits to improve in 2025. Microsoft has shown steady revenue and EPS growth for years, while IBM has been facing a bumpy road. However, with a better price performance and attractive valuation metrics, IBM is relatively better placed than Microsoft, although both appear to be on a level playing field in terms of Zacks Rank. Consequently, IBM seems to be a better investment option at the moment.
+Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report
+Microsoft Corporation (MSFT) : Free Stock Analysis Report
+International Business Machines Corporation (IBM) : Free Stock Analysis Report
+NVIDIA Corporation (NVDA) : Free Stock Analysis Report
+This article originally published on Zacks Investment Research (zacks.com).
+Zacks Investment Research
+We recently published a list of 10 AI Stocks on the Move. In this article, we are going to take a look at where Microsoft Corporation (NASDAQ:MSFT) stands against other AI stocks on the move. Market uncertainty aside, the AI race is tighter than ever. A report by Stanford University’s Institute for Human-Centered AI (HAI) […]
+Quantum computing could be the next frontier for computers and cloud-based services.  While traditional computers still store data in binary bits of zeros and ones, quantum computers store zeros and ones simultaneously in qubits.  If you want to profit from that secular trend, you should consider buying these three stocks: IonQ (NYSE: IONQ), D-Wave Quantum (NYSE: QBTS), and IBM (NYSE: IBM).
+The US government's export restrictions on a chip made by Nvidia (NVDA) could be "disruptive" to its
+Mag-7 stocks are in the deep correction zone now, and valuation is down to the pre-ChatGPT level. Although the group has fallen from grace, core strengths remain intact.
+A Wall Street firm cut its price targets on Microsoft and 50 other software stocks on Tuesday, citing a weakening macroeconomic outlook.
+(Bloomberg) -- Elliott Investment Management has built a position in Hewlett Packard Enterprise Co. worth more than $1.5 billion, according to people familiar with the matter. Most Read from BloombergHow Did This Suburb Figure Out Mass Transit?Trump Signs Executive Orders on Federal Purchasing, Office SpaceLA County Floats Leaner Budget Burdened by Fire and Legal Costs$15 Million Fund Bets Leadership Training Can Improve Chicago PolicingElliott plans to engage with the software and networking co
+While analysts remain bullish overall on Amazon (AMZ) stock, several Wall Street firms have cut their price targets for the tech giant's shares ahead of its first quarter earnings report. Concerns about the impact of President Donald Trump's tariff plan have weighed on Amazon shares in recent weeks. Amazon stock had sold off on a Q4 earnings report that included...
+Stocks took a turn lower on Wednesday as Federal Reserve Chair Jerome Powell spoke at the Economic Club of Chicago.  The Nasdaq Composite was down 2.9%.  The yield on the 2-year Treasury note was down to 3.83%.
+ERIC reports mixed first-quarter 2025 results, driven by solid demand in the Networks Segment along with multiple deal wins.
+Barclays Bank offers high-yield online savings accounts and CDs. Learn more about Barclays' interest rates, fees and more with this in-depth expert review.
+Tip: Try a valid symbol or a specific company name for relevant results
+Sign in to access your portfolio
+
+
+
+Try again.
